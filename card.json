@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "cards": [
+    {
+      "id": "sec-001",
+      "module": "sexuality",
+      "category": "Past History & Sexual Firsts",
+      "intensity": 1,
+      "prompt": "What was a romantic or sensual moment from early in our relationship that made your heart race?",
+      "contextType": "story"
+    },
+    {
+      "id": "sec-002",
+      "module": "sexuality",
+      "category": "Curiosities & Fantasies",
+      "intensity": 3,
+      "prompt": "Is there a sensory experience (sensory deprivation, temperature play, feathers) you want to experiment with?",
+      "contextType": "consent"
+    },
+    {
+      "id": "life-001",
+      "module": "life",
+      "category": "Finances & Money",
+      "intensity": 2,
+      "prompt": "What is a purchase under $200 that drastically improved your daily happiness?",
+      "contextType": "story"
+    }
+  ]
+}
